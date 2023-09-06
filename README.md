@@ -1,9 +1,17 @@
-# IPTV_video   #IPTV电视源
+# IPTV_video   #IPTV电视源   #直播源
+
+电视节目有CCTV1~17、各省卫视频道、公共电影频道。
+
+TV programs include CCTV1~17, provincial satellite TV channels, and public movie channels
 
 后台自动更新电视源文件，只需要订阅URL地址即可。
+
 The TV source file is automatically updated in the background, only need to subscribe to the URL address.
 
-订阅ULRL地址：（URL address）
+订阅ULRL地址：
+
+URL address:
+
 https://332j6027g0.oicp.vip/tv1.m3u
 
 每天下午5点自动更新源后台文件。

@@ -15,5 +15,4 @@ Below is the network connection speed
 
 
 
-![09e3504e3cf6bbc3f17efb62e28a06f](https://github.com/Logan-LH/IPTV_video/assets/75599934/0b93db6c-c289-4412-9b8d-828be9c27ba5)
-![ec7505001b5a46151c81fd4a14ecd7d](https://github.com/Logan-LH/IPTV_video/assets/75599934/677182cb-4f8e-44c3-8173-57119aa7ce3e)
+![b0009c98f56dc2dd17a279dbfc13134](https://github.com/Logan-LH/IPTV_video/assets/75599934/5370b15f-d5e2-4e5a-9b01-795a897feab4)
